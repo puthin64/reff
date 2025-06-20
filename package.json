@@ -1,0 +1,13 @@
+{
+  "name": "auto-reff-dex",
+  "version": "1.0.0",
+  "description": "Auto referral bot for early.dex.org using temp email",
+  "main": "auto-reff.js",
+  "scripts": {
+    "start": "node auto-reff.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "puppeteer": "^21.3.8"
+  }
+}
